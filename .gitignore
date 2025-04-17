@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider IDE files (if you ever use JetBrains)
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Audio and media (optional, only ignore if you don't want to track them)
+*.wav
+*.mp3
+
+# Logs
+*.log
+
+# Temporary or generated files
+Generated_Code/
+*.tmp
