@@ -9,13 +9,13 @@ This is a simple C# console application that acts as a **Cybersecurity Awareness
 - Displays an ASCII art logo.
 - Asks the user for their name and greets them personally.
 - Responds to user questions about:
-  - Password safety 🔐
-  - Phishing scams 🎣
-  - Safe browsing practices 🛡️
-  - The bot’s purpose 💬
-  - Two-factor authentication 🔑
-  - Social engineering 🧠
-  - Data backups 💾
+  - Password safety. 🔐
+  - Phishing scams.🎣
+  - Safe browsing practices. 🛡️
+  - The bot’s purpose. 💬
+  - Two-factor authentication. 🔑
+  - Social engineering. 🧠
+  - Data backups. 💾
 - Gracefully handles unknown or empty input.
 - User can type `exit` to close the application.
 
